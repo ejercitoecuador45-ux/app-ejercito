@@ -58,7 +58,7 @@ function Login() {
                         SISTEMA <span>MILITAR</span>
                     </h1>
                     <p style={styles.subtext}>
-                        Comando Logístico No. 73 "Girón"
+                        Batallon de Apoyo Logístico No. 73 "Girón"
                     </p>
                 </div>
 
