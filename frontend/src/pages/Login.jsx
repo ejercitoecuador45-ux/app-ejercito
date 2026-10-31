@@ -58,7 +58,7 @@ function Login() {
                         SISTEMA <span>MILITAR</span>
                     </h1>
                     <p style={styles.subtext}>
-                        Batallon de Apoyo Logístico No. 73 "Girón"
+                        Batallón de Apoyo Logístico No. 73 "Girón"
                     </p>
                 </div>
 
@@ -107,9 +107,6 @@ function Login() {
                         Ingresar al Sistema
                     </button>
 
-                    <p style={{ fontSize: '11px', color: 'var(--text-muted)', textAlign: 'center', margin: '4px 0 0' }}>
-                        * <strong>Personal Militar:</strong> Ingrese su número de cédula en usuario y contraseña para consultar sus pedidos.
-                    </p>
                 </form>
             </div>
         </div>
